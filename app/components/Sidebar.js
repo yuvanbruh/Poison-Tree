@@ -188,7 +188,7 @@ import {
 
 const core = [
   { label: 'Home', icon: <House size={20} weight="duotone" />, href: '/home' },
-  { label: 'Explore', icon: <BookOpen size={20} weight="duotone" />, href: '/discover' },
+  { label: 'Explore', icon: <BookOpen size={20} weight="duotone" />, href: '/' },
   { label: 'Mood Map', icon: <MapTrifold size={20} weight="duotone" />, href: '/mood-map' },
   { label: 'Echoes', icon: <Heart size={20} weight="duotone" />, href: '/echoes' },
   { label: 'Journals', icon: <BookOpen size={20} weight="duotone" />, href: '/progress' },

@@ -2,9 +2,9 @@
 
 Poison Tree — A Mood-Based Surreal Social App
 
->  Explore your moods. Express them. Connect through surreal experiences.
->  Built with Next.js, TailwindCSS, MongoDB, NextAuth.
->  Inspired by the dreamlike tones of *Mulholland Drive* and *Twin Peaks*.
+  Explore your moods. Express them. Connect through surreal experiences.
+ Built with Next.js, TailwindCSS, MongoDB, NextAuth.
+ Inspired by the dreamlike tones of *Mulholland Drive* and *Twin Peaks*.
 
 
  Key Features
